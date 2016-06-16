@@ -12,7 +12,8 @@
 * "How do we login a user in Rails using the `session` hash? How about a logout?",
 * "What is the best way to store passwords in a database. What should we be careful NOT to do?",
 * "Describe the difference between `authentication` and `authorization`.",
-* "What is an rspec matcher? Give an example of one."
-* "Compare and contrast a `describe` and a `context` block in rspec."
+* "What is an rspec matcher? Give an example of one.",
+* "Compare and contrast a `describe` and a `context` block in rspec.",
+* "What is the flash hash, why is it useful?",
 * "If we are trying to save a user, but certain validations prevent us from doing so, how can figure out what the issue is?",
 * "You want to set a breakpoint in your Rails application, walk through the steps you'd take in order to do this."
