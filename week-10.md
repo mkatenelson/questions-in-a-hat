@@ -1,11 +1,18 @@
 
 What is a directive?,
+
 What is a service?,
+
 Describe what MVC means on the front end,
+
 What is data binding? What does it mean that Angular has two way data binding?,
+
 What is dependency injection?,
+
 Name 4 Angular directives,
+
 What is a factory?,
+
 What is routing in Angular?,
 What is $http vs $resource,
 What does ng-model do?,
